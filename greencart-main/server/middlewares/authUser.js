@@ -22,3 +22,5 @@ const authUser = async (req, res, next)=>{
 }
 
 export default authUser;
+
+// server/middlewares/authUser.js
