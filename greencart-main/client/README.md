@@ -1,12 +1,32 @@
-# React + Vite
+# 🛒 Aapka Bazar – Online Grocery Shopping
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Aapka Bazar** is a simple and efficient online grocery shopping platform. It allows users to browse, search, and add daily-use grocery items to their cart—all from the comfort of their home.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🥦 Browse fresh groceries by category
+- 🛍️ Add and remove items from cart
+- 🔍 Simple product search functionality
+- 📦 Clean, user-friendly interface
+- 📱 Fully responsive design for mobile and desktop
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Tailwind
+- **Deployment:**  Vercel
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/your-username/aapka-bazar.git
+npm install
+npm run dev
+```
