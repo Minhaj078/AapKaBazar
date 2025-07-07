@@ -1,4 +1,4 @@
-# 🛒 Aapka Bazar – Online Grocery Shopping
+# 🛒 GreenCart – Online Grocery Shopping
 
 **Aapka Bazar** is a simple and efficient online grocery shopping platform. It allows users to browse, search, and add daily-use grocery items to their cart—all from the comfort of their home.
 
